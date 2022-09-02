@@ -7,5 +7,6 @@ This dflow proposal is used to construct the initial data set for dpgen iteratio
 ![alt 文字](./workflow_CINEB_Pertubation.png)
 <center> Figure 1. The dflow diagram for CI-NEB+Pertubation.</center>
 
-
+## Codes
+0. All codes have been written in code.py file. If you want to use it, don't forget modify the "slurm_remote_executor" according to your cluster info. 
 
