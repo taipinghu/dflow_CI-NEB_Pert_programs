@@ -5,5 +5,7 @@ This dflow proposal is used to construct the initial data set for dpgen iteratio
 
 ## Workflow
 ![alt 文字](./workflow_CINEB_Pertubation.png)
-<center> Figure 1. The dflow diagram for CI-NEB+Pertubation</center>
+<center> Figure 1. The dflow diagram for CI-NEB+Pertubation.</center>
+
+
 
