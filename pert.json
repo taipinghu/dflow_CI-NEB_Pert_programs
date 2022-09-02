@@ -1,0 +1,14 @@
+ {
+		"initial_state": "./initial", 
+		"final_state": "./final",
+        "intel_env_path": "/public1/soft/intel/2020/parallel_studio_xe_2020/psxevars.sh",
+        "vasp_exec_path": "/public1/home/sc60061/Soft/vasp_vtst/vasp.5.4.4/bin/vasp_vtst_std",
+        "ncores": 60,
+		"image_numb": 3,
+		"vtst_script_path":	"/public1/home/sc60061/Soft/vasp_vtst/vtstscripts-972",
+        "pert_script_path": "/public1/home/sc60061/Soft/tools/create_random_disturb.py",
+        "pert_numb": 2,
+        "incar_neb": "./INCAR_CINEB",
+        "kpoints": "./KPOINTS",
+        "potcar": "./POTCAR"
+ }
